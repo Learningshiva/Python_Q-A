@@ -2,3 +2,9 @@ num = int(input("Enter a number: "))
 
 if num % 2 == 0:
     print("Even number")
+
+a = 33
+b = 200
+
+if b > a:
+print("b is greater than a")
