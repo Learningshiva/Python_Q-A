@@ -1,0 +1,36 @@
+1. Write a programme, check a no. is positive, negative or zero.
+
+value = float(input())
+
+if value >0:
+    print("It's a positive no.")
+
+elif value < 0:
+    print("It's a negative no.")
+
+else:
+    print("zero")
+
+2. Accept a mark print grade.
+   90 to above : Grade A
+   80 - 89 : Grade B
+   70 -79 : Grade C
+   60 -69 : Grade D
+   Bellow 60 : Grade F
+
+mark = int(input())
+
+if mark >= 90:
+   print("Grade A")
+
+elif mark >= 80 and mark <= 89:
+     print("Grade B")
+
+elif mark >= 70 and mark <= 79: 
+     print("Grade c")
+
+elif mark >= 60 and mark <= 69: 
+     print("Grade D")
+
+else:
+     print("Fail")
