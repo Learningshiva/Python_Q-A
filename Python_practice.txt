@@ -64,3 +64,19 @@ else:
        case 7:
            print("Sunday")
 
+5. "admin" - Full Access
+   "editor" - Edit Access
+   "viewer" - Read-only Access
+   "default" - NO access
+   WAP using match
+
+   permission = ""
+   match permission:
+     case "admin":
+        print("Full access")
+     case "editor":
+        print("Edit access")
+     case "viewer":
+        print("Read-only access")
+     case _:
+        print("No access")
