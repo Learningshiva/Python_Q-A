@@ -1,0 +1,58 @@
+Naukri profile
+
+Resume Head line
+
+DevOps Engineer with 4 years of hands-on experience in automating infrastructure, managing CI/CD pipelines, and deploying scalable applications in cloud and containerized environments. Proficient in tools like Docker, Kubernetes, GitLab/GitHub CI.
+
+Skills
+
+Azure admin, Azure active directory, AWS, Logs Analysis, Azure Policy, Azure Load Balancer, GIT, Git Hub, Docker, Shell/Bash, Linux, Ubuntu, CI/CD, Git Lab, Terraform Grafana, Prometheus, Helm, Python, Yaml
+
+Employment
+
+Current company name - InTouch consumer care solutions Pvt. Ltd.
+
+Current job title - DevOps Support Engineer
+
+Joining date - Sep/2023
+
+Salary breakdown - Fixed
+
+Job Profile - Designed & implemented CI/CD pipelines using Gitlab to automate the software delivery process, resulting in a reduction in deployment time.
+
+Created shared resources provisioning module like Apache, storage, compute network, Kubernetes, and secret manager provisioning.
+
+Implemented containerization using Docker and orchestration with EKS, enabling scalability and easier management of applications in production environments.
+
+Created alerting rules in Grafana and sent notifications to Slack channels.
+
+Created multiple Grafana dashboards using a data source.
+
+Utilized Terraform and Ansible for infrastructure as code (IAC) to automate provisioning and configuration management in cloud-based environment.
+
+Previous company name - Foiwe info global solutions Pvt Ltd
+
+Job title - System Analyst
+
+Joining date - Feb/2020 - Jun/2022
+
+Job profile - Experienced in enabling monitoring solutions using supported tools like Azure Monitor, Log Analytics, and Network Watcher.
+
+Manage scalable, secure cloud solutions leveraging Azure services to meet business objectives.
+
+Installed, upgraded, and configured monitoring solutions for Azure IaaS Windows and Linux servers as well as PaaS services like Azure SQL.
+
+Managed Azure subscriptions, overseeing availability, performance, reliability, and security using tools such as Azure Monitor, Azure Log Analytics, and Azure Trusted Advisor.
+
+Troubleshooting on Azure VMs, VNET, resources Groups, NSG, etc.
+
+Education
+
+B. Tech
+Marks - 7.16
+
+Profile summary - DevOps Engineer with 4 years of hands-on experience in automating infrastructure, managing CI/CD pipelines, and deploying scalable applications in cloud and containerized environments. Proficient in tools like Docker, Kubernetes, GitLab/GitHub CI, Terraform, and monitoring solutions like Grafana and Prometheus, with a strong foundation in Linux systems and scripting (Python/Bash).
+
+Certification name - Azure administrator associate (az-104) by Microsoft
+
+Certification completion ID - I700-0757
