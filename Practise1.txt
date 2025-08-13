@@ -1,0 +1,13 @@
+Introduction to EC2:
+
+- Amazon Elastic Compute Cloud (Amazon EC2) is a web service that provides secure, resizable compute capacity in the cloud.
+- Access reliable, scalable infrastructure on demand. Scale capacity within minutes with SLA commitment of 99.99% availability.
+- Provide secure compute for your applications. Security is built into the foundation of Amazon EC2 with the AWS Nitro System.
+- Optimize performance and cost with flexible options like AWS Graviton-based instances, Amazon EC2 Spot instances, and AWS Savings Plans.
+
+EC2 usecases
+
+Deliver secure, reliable, high-performance, and cost-effective compute infrastructure to meet demanding business needs.
+Access the on-demand infrastructure and capacity you need to run HPC applications faster and cost-effectively.
+Access environments in minutes, dynamically scale capacity as needed, and benefit from AWS’s pay-as-you-go pricing.
+Deliver the broadest choice of compute, networking (up to 400 Gbps), and storage services purpose-built to optimize price performance for ML projects
